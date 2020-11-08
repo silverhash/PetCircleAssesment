@@ -40,5 +40,8 @@ request json -
  	"id": "1",
  	"status": "CANCEL"
  }
+ 
+ 2) The ER diagram is in the file  - CarBookingER.png
+ 3) The process flow block diagram - CarBookingWithLicenceValidator.png
 
 

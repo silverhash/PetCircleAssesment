@@ -43,5 +43,6 @@ request json -
  
  2) The ER diagram is in the file  - CarBookingER.png
  3) The process flow block diagram - CarBookingWithLicenceValidator.png
+ 4) Alternatively you can use the postman json collection to execute the test.
 
 
